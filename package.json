@@ -1,6 +1,6 @@
 {
   "name": "ua-cmd",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "User agent string parsing from the command line.",
   "preferGlobal": true,
   "bin": {
@@ -20,6 +20,7 @@
     "user agent"
   ],
   "dependencies": {
+    "fast-csv": "^2.4.1",
     "ua-parser-js": "0.7.10"
   },
   "devDependencies": {

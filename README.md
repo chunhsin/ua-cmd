@@ -13,6 +13,9 @@ User agent string parsing from the command line.
 
       Chrome 50.0.2661.86
       Mac OS 10.11.4
+      
+    ➜   ua-cmd csv csvFile uaIndex
+    Will parse useragent in csvFile at uaIndex then append to the last.
 
 ## Install
 
